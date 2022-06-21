@@ -9,6 +9,7 @@ function About() {
       <p className='text-lg text-gray-400'>
         Version <span className='text-white'>1.0.9</span>
       </p>
+      <p>ajmal <strong>rizwan</strong></p>
      
     </div>
   )
